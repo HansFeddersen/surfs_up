@@ -24,18 +24,18 @@ Data Bootcamp Module 9: Surf's Up with Avanced Data Storage and Retrieval
 
 Tables:
 
-![This is an image](https://github.com/HansFeddersen/Pewlett-Hackard-Analysis./blob/main/Data/more/elegible_for_mentorship.png)
+![This is an image](https://github.com/HansFeddersen/surfs_up/blob/main/More/Temperatures_recorded.png)
 
 **Two additional queries to perform to gather more weather data for June and December**
 
-- We can add a query to obtain the precipitation levels for both months and that way have a more complex study. prcpIn that case, the query would be as follows:
+- We can add a query to obtain the precipitation levels for both months and that way have a more complex study. In that case, the query would be as follows:
 
-![This is an image](https://github.com/HansFeddersen/Pewlett-Hackard-Analysis./blob/main/Data/more/elegible_for_mentorship.png)
+![This is an image](https://github.com/HansFeddersen/surfs_up/blob/main/More/precipitation_query.png)
 
 Clearly it reains much more in Deceber than in June, as we can see in the following tables:
 
-![This is an image](https://github.com/HansFeddersen/Pewlett-Hackard-Analysis./blob/main/Data/more/elegible_for_mentorship.png)
+![This is an image](https://github.com/HansFeddersen/surfs_up/blob/main/More/precipitation_recorded.png)
 
 - We could also write a query to obtain the minimum, maximum and average temperature/precipitation for each of the 9 stations available and we will see that station USC00516128, not only has the lowest average temperature of them all, but also it is the one that shows the greatest average of precipitation (it would not be recommendable to put any ice cream shop near that station). The query to obtain that information and results are as follows:
 
-![This is an image](https://github.com/HansFeddersen/Pewlett-Hackard-Analysis./blob/main/Data/more/elegible_for_mentorship.png)
+![This is an image](https://github.com/HansFeddersen/surfs_up/blob/main/More/station_queries.png)
